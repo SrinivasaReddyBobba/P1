@@ -1,0 +1,19 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E453-DD64
+
+ Directory of C:\Users\srini\Desktop\Jenkins
+
+03/12/2022  08:02 PM    <DIR>          .
+03/11/2022  11:22 AM    <DIR>          ..
+03/11/2022  11:48 AM        11,073,165 apache-tomcat-8.5.76.zip
+03/12/2022  03:04 PM               675 Hello.class
+03/12/2022  03:12 PM               174 Hello.java
+03/11/2022  02:19 PM         3,568,884 jenkins-cli.jar
+03/11/2022  11:21 AM        94,952,903 jenkins.war
+03/12/2022  03:44 PM    <DIR>          JenkinsHome
+03/12/2022  03:24 PM               104 sample.py
+03/12/2022  05:24 PM                17 TEST.txt
+03/12/2022  08:02 PM                 0 test2.txt
+03/11/2022  11:49 AM    <DIR>          tomcat
+               8 File(s)    109,595,922 bytes
+               4 Dir(s)  270,704,037,888 bytes free
