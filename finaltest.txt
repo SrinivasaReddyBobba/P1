@@ -1,0 +1,5 @@
+D1.txt	     TEST.txt		       index.html	line1.txt   tomcat
+Git_Pratice  apache-tomcat-8.5.76.zip  index2.html	readme.txt
+Hello.class  build.txt		       jenkins-cli.jar	sample.py
+Hello.java   explore.txt	       jenkins.war	test2.txt
+JenkinsHome  finaltest.txt	       line.txt		test5.txt
